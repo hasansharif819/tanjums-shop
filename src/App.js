@@ -24,7 +24,7 @@ function App() {
         <Route path='/lehenga' element={<Lehenga></Lehenga>}></Route>
         <Route path='/singleLehenga' element={<SingleLehenga></SingleLehenga>}></Route>
         <Route path='/about' element={<About></About>}></Route>
-        <Route path='/home' element={<Home></Home>}></Route>
+        <Route path='/' element={<Home></Home>}></Route>
         <Route path='/accessory' element={<Shop></Shop>}></Route>
         <Route path='/services' element={<Services></Services>}></Route>
         <Route path='/login' element={<Login></Login>}></Route>

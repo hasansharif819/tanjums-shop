@@ -1,10 +1,12 @@
 import React from 'react';
 import './About.css';
 import tanjum1 from '../../../image/Tanjum/tanjum1.jpg';
+import PageTitle from '../../Shared/PageTitle/PageTitle';
 
 const About = () => {
     return (
         <div>
+            <PageTitle title='About'></PageTitle>
             <div className='about'>
             <img width={300} height={300} src={tanjum1} alt="" />
             <h4>Tanjum Nahar</h4>
