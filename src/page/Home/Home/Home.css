@@ -1,0 +1,23 @@
+.title{
+    border:  1px solid tomato;
+    font-weight: 900;
+    font-style: italic;
+    background-color: khaki;
+}
+
+.carouselPart{
+    width: 100%;
+    border: 2px solid goldenrod;
+}
+.shaeeBazar{
+    background-color: rgb(224, 106, 218);
+    border: 1px solid tomato;
+    margin-top: 10px;
+    padding: 5px;
+}
+.lehengaBazar{
+    background-color: pink;
+    border: 1px solid tomato;
+    margin-top: 10px;
+    padding: 5px;
+}
