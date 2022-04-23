@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Jamdani",
+        "price": "400",
+        "cloth": "Jamdani Special",
+        "color": "All Color Available",
+        "rating": "4",
+        "img": "https://i.ibb.co/Wytm1xy/s11.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Jinku",
+        "price": "400",
+        "cloth": "Jinku Special",
+        "color": "All Color Available",
+        "rating": "4",
+        "img": "https://i.ibb.co/WFm4xzW/s12.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Cotton",
+        "price": "1000",
+        "cloth": "Super Special Cotton",
+        "color": "All Color Available",
+        "rating": "4",
+        "img": " https://i.ibb.co/dkYHJvs/s10.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pixu Pihu",
+        "price": "900",
+        "cloth": "Special Cotton",
+        "color": "White with mixed grey",
+        "rating": "4",
+        "img": "https://i.ibb.co/bbRxv8j/s9.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Jamdani",
+        "price": "600",
+        "cloth": "Special",
+        "color": "Only Hot Pink",
+        "rating": "4",
+        "img": "https://i.ibb.co/Syj7NJs/s8.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Fabric",
+        "price": "400",
+        "cloth": "Fabric Special",
+        "color": "All Color Available",
+        "rating": "4",
+        "img": "https://i.ibb.co/v1krXt9/s7.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Glorious",
+        "price": "700",
+        "cloth": "Special Sharee",
+        "color": "Black & Pink",
+        "rating": "4",
+        "img": "https://i.ibb.co/S5p5w1X/s6.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Gorget",
+        "price": "500",
+        "cloth": "Gorget sharee",
+        "color": "All Color Available",
+        "rating": "4",
+        "img": "https://i.ibb.co/tQ8qfXv/s5.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Tissue",
+        "price": "800",
+        "cloth": "Tissue",
+        "color": "All Color Available",
+        "rating": "4",
+        "img": "https://i.ibb.co/QmG0J2G/s3.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Katan",
+        "price": "600",
+        "cloth": "Katan Special",
+        "color": "All Color Available",
+        "rating": "4",
+        "img": "https://i.ibb.co/Sw5WLCB/s4.jpg"
+    }
+]

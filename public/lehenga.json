@@ -1,0 +1,92 @@
+[
+    {
+        "idd": 1,
+        "name": "Sweet Lehenga",
+        "price": "700",
+        "cloth": "Jamdani Hot Special",
+        "color": "Pink & slateBlue Available",
+        "rating": "4.5",
+        "img": "https://i.ibb.co/VMjyWD7/l1.jpg"
+    },
+    {
+        "idd": 2,
+        "name": "Hot Lehenga",
+        "price": "900",
+        "cloth": "Super Duper Special",
+        "color": "Only Black Available",
+        "rating": "5",
+        "img": "https://i.ibb.co/HYHDMgZ/l2.jpg"
+    },
+    {
+        "idd": 3,
+        "name": "Cotton Lehenga",
+        "price": "1000",
+        "cloth": "Super Special Cotton",
+        "color": "White & Paste Available",
+        "rating": "4.8",
+        "img": "https://i.ibb.co/9rq4cxK/l3.jpg"
+    },
+    {
+        "idd": 4,
+        "name": "Pixu Pihu Lehenga",
+        "price": "900",
+        "cloth": "Special Cotton",
+        "color": "White with mixed grey",
+        "rating": "4",
+        "img": "https://i.ibb.co/C6T3ssd/l4.jpg"
+    },
+    {
+        "idd": 5,
+        "name": "Indian Lehenga",
+        "price": "800",
+        "cloth": "Special",
+        "color": "Only Hot Pink",
+        "rating": "4",
+        "img": "https://i.ibb.co/9n3M3TY/l5.jpg"
+    },
+    {
+        "idd": 6,
+        "name": "Fabric Lehenga",
+        "price": "700",
+        "cloth": "Fabric Special",
+        "color": "All Color Available",
+        "rating": "4",
+        "img": "https://i.ibb.co/sb80KDP/l6.jpg"
+    },
+    {
+        "idd": 7,
+        "name": "Glorious Lehenga",
+        "price": "700",
+        "cloth": "Special",
+        "color": "Black & Pink",
+        "rating": "4",
+        "img": "https://i.ibb.co/N6FmfqD/l7.jpg"
+    },
+    {
+        "idd": 8,
+        "name": "Gorget Special Lehenga",
+        "price": "900",
+        "cloth": "Gorget",
+        "color": "All Color Available",
+        "rating": "4",
+        "img": "https://i.ibb.co/nMX2bTS/l8.jpg"
+    },
+    {
+        "idd": 9,
+        "name": "Tissue Lehenga",
+        "price": "800",
+        "cloth": "Tissue super Cloth",
+        "color": "Hot pink Available",
+        "rating": "4.6",
+        "img": "https://i.ibb.co/YWgQrFd/l9.jpg"
+    },
+    {
+        "idd": 10,
+        "name": "Western Lehenga",
+        "price": "1200",
+        "cloth": "Western Special",
+        "color": "Only Pink & black & Blue Available",
+        "rating": "5",
+        "img": "https://i.ibb.co/JzJvySQ/l10.jpg"
+    }
+]
