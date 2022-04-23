@@ -11,6 +11,7 @@ import Sharee from './page/Home/Shop/Sharee/Sharee';
 import SingleSharee from './page/Home/Shop/SingleSharee/SingleSharee';
 import Lehenga from './page/Home/Shop/Lehenga/Lehenga';
 import SingleLehenga from './page/Home/Shop/SingleLehenga/SingleLehenga';
+import About from './page/Home/About/About';
 
 function App() {
   return (
@@ -22,9 +23,9 @@ function App() {
         <Route path='/singlesharee' element={<SingleSharee></SingleSharee>}></Route>
         <Route path='/lehenga' element={<Lehenga></Lehenga>}></Route>
         <Route path='/singleLehenga' element={<SingleLehenga></SingleLehenga>}></Route>
-        
+        <Route path='/about' element={<About></About>}></Route>
         <Route path='/home' element={<Home></Home>}></Route>
-        <Route path='/shop' element={<Shop></Shop>}></Route>
+        <Route path='/accessory' element={<Shop></Shop>}></Route>
         <Route path='/services' element={<Services></Services>}></Route>
         <Route path='/login' element={<Login></Login>}></Route>
         <Route path='*' element={<NotFound></NotFound>}></Route>

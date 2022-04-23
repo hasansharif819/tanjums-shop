@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "Jamdani",
+        "name": "Jamdani Sharee",
         "price": "400",
         "cloth": "Jamdani Special",
         "color": "All Color Available",
@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "name": "Jinku",
+        "name": "Jinku Sharee",
         "price": "400",
         "cloth": "Jinku Special",
         "color": "All Color Available",
@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "name": "Cotton",
+        "name": "Cotton Sharee",
         "price": "1000",
         "cloth": "Super Special Cotton",
         "color": "All Color Available",
@@ -28,7 +28,7 @@
     },
     {
         "id": 4,
-        "name": "Pixu Pihu",
+        "name": "Pixu Pihu Sharee",
         "price": "900",
         "cloth": "Special Cotton",
         "color": "White with mixed grey",
@@ -37,7 +37,7 @@
     },
     {
         "id": 5,
-        "name": "Jamdani",
+        "name": "Jamdani Sharee",
         "price": "600",
         "cloth": "Special",
         "color": "Only Hot Pink",
@@ -46,7 +46,7 @@
     },
     {
         "id": 6,
-        "name": "Fabric",
+        "name": "Fabric Sharee",
         "price": "400",
         "cloth": "Fabric Special",
         "color": "All Color Available",
@@ -55,7 +55,7 @@
     },
     {
         "id": 7,
-        "name": "Glorious",
+        "name": "Glorious Sharee",
         "price": "700",
         "cloth": "Special Sharee",
         "color": "Black & Pink",
@@ -64,7 +64,7 @@
     },
     {
         "id": 8,
-        "name": "Gorget",
+        "name": "Gorget Sharee",
         "price": "500",
         "cloth": "Gorget sharee",
         "color": "All Color Available",
@@ -73,7 +73,7 @@
     },
     {
         "id": 9,
-        "name": "Tissue",
+        "name": "Tissue Sharee ",
         "price": "800",
         "cloth": "Tissue",
         "color": "All Color Available",
@@ -82,7 +82,7 @@
     },
     {
         "id": 10,
-        "name": "Katan",
+        "name": "Katan Sharee",
         "price": "600",
         "cloth": "Katan Special",
         "color": "All Color Available",

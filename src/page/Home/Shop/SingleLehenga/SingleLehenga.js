@@ -10,7 +10,8 @@ const SingleLehenga = ({singleLehenga}) => {
             <h4>{name}</h4>
             <p>Price: ${price}</p>
             <p><small>Ratings: {rating}</small></p>
-            <button className='btn btn-primary'>Add to Card</button>
+            <button className='btn btn-primary mx-5'>Buy Now</button>
+            <button className='btn btn-success'>Add to Cart</button>
         </div>
     );
 }

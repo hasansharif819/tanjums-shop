@@ -1,0 +1,8 @@
+.goods{
+    border: 3px solid tomato;
+    background-color: hotpink;
+    border-radius: 10px;
+    margin: 10px auto;
+    padding: 5px;
+    width: 30%;
+}

@@ -8,6 +8,7 @@ import './Home.css';
 import p1 from '../../../image/p1.jpg';
 import p2 from '../../../image/p2.jpg';
 import p3 from '../../../image/p3.jpg';
+import PageTitle from '../../Shared/PageTitle/PageTitle';
 
 const Home = () => {
     const [sharee, setSharee] = useState([]);
@@ -24,6 +25,7 @@ const Home = () => {
     }, [])
     return (
         <div>
+          <PageTitle title='Home'></PageTitle>
             <h2 className='title text-success'>WELCOME TO TANJUM'S SHOP</h2>
             <div className="carouselPart">
             <Carousel>
@@ -35,6 +37,9 @@ const Home = () => {
     />
     <Carousel.Caption>
       <h3>Sharee</h3>
+      <Link to='/about'>
+        <button className='btn btn-primary'>Contact</button>
+      </Link>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
@@ -46,6 +51,9 @@ const Home = () => {
 
     <Carousel.Caption>
       <h3>Lehenga</h3>
+      <Link to='/about'>
+        <button className='btn btn-primary'>Contact</button>
+      </Link>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
@@ -57,6 +65,9 @@ const Home = () => {
 
     <Carousel.Caption>
       <h3>Churi</h3>
+      <Link to='/about'>
+        <button className='btn btn-primary'>Contact</button>
+      </Link>
     </Carousel.Caption>
   </Carousel.Item>
 </Carousel>

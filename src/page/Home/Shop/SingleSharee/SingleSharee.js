@@ -9,7 +9,8 @@ const SingleSharee = ({singleSharee}) => {
             <h5>Name: {name}</h5>
             <p>Price: ${price}</p>
             <p>Ratings: {rating}</p>
-            <button className='btn btn-primary'>Add to Cart</button>
+            <button className='btn btn-primary mx-5'>Buy Now</button>
+            <button className='btn btn-success'>Add to Cart</button>
         </div>
     );
 };

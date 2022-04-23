@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import PageTitle from "../../../Shared/PageTitle/PageTitle";
 import SingleSharee from "../SingleSharee/SingleSharee";
 
 const Sharee = () => {
@@ -10,6 +11,7 @@ const Sharee = () => {
     } ,[])
     return (
         <div className='row'>
+            <PageTitle title='Sharee'></PageTitle>
             <h3 className="text-primary">Sharee Collection</h3>
             {
                 sharee.map(singleSharee => <SingleSharee 

@@ -1,0 +1,9 @@
+.about{
+    background-color: hotpink;
+    padding: 10px;
+    border: 3px solid magenta;
+    border-radius: 20px;
+}
+.about img{
+    border-radius: 50%;
+}

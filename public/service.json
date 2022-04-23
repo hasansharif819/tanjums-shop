@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Jamdani Sharee",
+        "price": "400",
+        "servi": "Resize and Refitting",
+        "review": "Fatafati",
+        "img": "https://i.ibb.co/Wytm1xy/s11.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Jinku Sharee",
+        "price": "400",
+        "servi": "Resize and Refitting",
+        "review": "Jitchi mama",
+        "img": "https://i.ibb.co/WFm4xzW/s12.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Cotton Sharee",
+        "price": "1000",
+        "servi": "Resize and Refitting",
+        "review": "Wow Wow",
+        "img": " https://i.ibb.co/dkYHJvs/s10.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pixu Pihu Sharee",
+        "price": "900",
+        "servi": "Resize and Refitting",
+        "review": "Good",
+        "img": "https://i.ibb.co/bbRxv8j/s9.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Jamdani Sharee",
+        "price": "600",
+        "servi": "Resize and Refitting",
+        "review": "Heavvy",
+        "img": "https://i.ibb.co/Syj7NJs/s8.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Fabric Sharee",
+        "price": "400",
+        "servi": "Resize and Refitting",
+        "review": "Dharun",
+        "img": "https://i.ibb.co/v1krXt9/s7.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Glorious Sharee",
+        "price": "700",
+        "servi": "Resize and Refitting",
+        "review": "Sei mama sei",
+        "img": "https://i.ibb.co/S5p5w1X/s6.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Gorget Sharee",
+        "price": "500",
+        "servi": "Resize and Refitting",
+        "review": "Cool",
+        "img": "https://i.ibb.co/tQ8qfXv/s5.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Tissue Sahree",
+        "price": "800",
+        "servi": "Resize and Refitting",
+        "review": "Very Good",
+        "img": "https://i.ibb.co/QmG0J2G/s3.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Katan Sharee",
+        "price": "600",
+        "servi": "Resize and Refitting",
+        "review": "Jakkas",
+        "img": "https://i.ibb.co/Sw5WLCB/s4.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Sweet Lehenga",
+        "price": "700",
+        "servi": "Resize and Refitting",
+        "review": "Very Valo",
+        "img": "https://i.ibb.co/VMjyWD7/l1.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Hot Lehenga",
+        "price": "900",
+        "servi": "Resize and Refitting",
+        "review": "Porte dharun",
+        "img": "https://i.ibb.co/HYHDMgZ/l2.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Cotton Lehenga",
+        "price": "1000",
+        "servi": "Resize and Refitting",
+        "review": "Osthir",
+        "img": "https://i.ibb.co/9rq4cxK/l3.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Pixu Pihu Lehenga",
+        "price": "900",
+        "servi": "Resize and Refitting",
+        "review": "Very Good",
+        "img": "https://i.ibb.co/C6T3ssd/l4.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Indian Lehenga",
+        "price": "800",
+        "servi": "Resize and Refitting",
+        "review": "Awesome",
+        "img": "https://i.ibb.co/9n3M3TY/l5.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Fabric Lehenga",
+        "price": "700",
+        "servi": "Resize and Refitting",
+        "review": "Very Good",
+        "img": "https://i.ibb.co/sb80KDP/l6.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Glorious Lehenga",
+        "price": "700",
+        "servi": "Resize and Refitting",
+        "review": "Matha Nosto",
+        "img": "https://i.ibb.co/N6FmfqD/l7.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Gorget Special Lehenga",
+        "price": "900",
+        "servi": "Resize and Refitting",
+        "review": "Vallagche Mama",
+        "img": "https://i.ibb.co/nMX2bTS/l8.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Tissue Lehenga",
+        "price": "800",
+        "servi": "Resize and Refitting",
+        "review": "Purai Xosss",
+        "img": "https://i.ibb.co/YWgQrFd/l9.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Western Lehenga",
+        "price": "1200",
+        "servi": "Resize and Refitting",
+        "review": "Very Osthir",
+        "img": "https://i.ibb.co/JzJvySQ/l10.jpg"
+    }
+]
